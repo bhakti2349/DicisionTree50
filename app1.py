@@ -4,7 +4,7 @@ import pandas as pd
 import pickle
 
 
-my_dtr = pickle(oopen("weather_dtr.pkl","rb"))
+my_dtr = pickle(open("weather_dtr.pkl","rb"))
 
 def predict(data):
     return my_dtr.predict(data)
