@@ -1,2 +1,2 @@
 # DTR
-https://dtrweather.streamlit.app/
+https://bhakti50.streamlit.app/
